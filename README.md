@@ -912,6 +912,4 @@ Terima kasih kepada:
 - [XMP Standard](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)
 
 ---
-
-*Dibuat dengan ❤️ untuk memudahkan analisis metadata*
 *Dibuat dengan ❤️ untuk memudahkan analisis metadata*
